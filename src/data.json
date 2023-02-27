@@ -1,0 +1,13 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImVoZmRAYWRtaW4uY29tIiwiaWF0IjoxNjc3MjEwODYwLCJleHAiOjE2NzcyMTgwNjB9.iRQuLOWhHCHJlWecMQpfRNgh_X1SIBljMYg9zPlOi_M",
+  "user": {
+    "_id": "63f59b784c3ec809044d6bf3",
+    "name": "efar",
+    "password": "$2a$08$jTWxX5NeKiET1ONsVgrzJOpzXquIBLjo4h3wZhX/t9Ipmv.Aav2f2",
+    "email": "ehfd@admin.com",
+    "description": "Descripcion",
+    "createdAt": "2023-02-22T04:35:04.892Z",
+    "updatedAt": "2023-02-22T04:35:04.892Z",
+    "rol": "user"
+  }
+}
