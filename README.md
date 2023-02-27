@@ -1,7 +1,6 @@
 # frontend_enve
 ## Docker
-- Enter in the terminal and put sudo docker-compose build then sudo docker-compose up.
-- The app is running in localhost:3000
+- Tarea dockerizar la aplicacion
 Git flow:
 ## Git Flow
 
