@@ -1,6 +1,6 @@
 # frontend_enve
 ## Docker
-- Tarea dockerizar la aplicacion
+- Dockerize the app
 Git flow:
 ## Git Flow
 
